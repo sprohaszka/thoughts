@@ -1,0 +1,4 @@
+baseURL = 'http://sprohaszka.github.com/thoughts'
+languageCode = 'fr-FR'
+title = 'My Thoughts - for personal mind safe'
+theme = 'PaperMod'
